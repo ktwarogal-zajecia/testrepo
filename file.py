@@ -1,1 +1,2 @@
-print("Zmiana w github!")
+print("Pierwsza linijka lokalnie")
+print("Druga linijka lokalnie")
