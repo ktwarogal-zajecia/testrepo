@@ -1,1 +1,1 @@
-print("Hello!")
+print("Zmiana w lokalnym kodzie!")
