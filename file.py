@@ -1,1 +1,1 @@
-print("Zmiana w lokalnym kodzie!")
+print("Zmiana w github!")
