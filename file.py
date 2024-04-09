@@ -1,2 +1,2 @@
-print("Pierwsza linijka lokalnie")
-print("Druga linijka lokalnie")
+print("Pierwsza linijka w github")
+print("Druga linijka w github")
